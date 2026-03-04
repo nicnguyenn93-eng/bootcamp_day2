@@ -1,0 +1,18 @@
+body {
+    background-color: #88B7B5;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#sections {
+    border: 5px dotted #A6ECE0;
+    border-radius: 5 px;
+    margin-top: 20 px;
+    margin-bottom: 20 px;
+    padding-left: 18px;
+}
+
+h1 {
+    font-weight: bolder;
+    color: #310A31;
+
+}
